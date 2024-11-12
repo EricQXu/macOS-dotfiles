@@ -1,4 +1,7 @@
 # Setup
+## Screenshots
+![image](https://github.com/user-attachments/assets/4572405b-649f-4d69-899f-06ce48a3598c)
+
 ## Prerequisites
 1.) macOS Ventura or later (except Yabai, which would be ≤ macOS Sonoma)\
 2.) Have [Homebrew Package Manager](https://brew.sh/) installed\
