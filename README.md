@@ -39,8 +39,9 @@ https://developer.apple.com/sf-symbols/\
 
 ### Terminal Emulator (WezTerm)
 1.) Download and install [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads)\
-2.) Copy all the contents in ```/.config/wezterm``` folder in the cloned repo to your ```~/.config/wezterm``` directory. \
-3.) Restart WezTerm
+2.) ```brew install wezterm``` (and follow any additional steps prompted after the installation (if any))\
+3.) Copy all the contents in ```/.config/wezterm``` folder in the cloned repo to your ```~/.config/wezterm``` directory. \
+4.) Restart WezTerm
 
 ### Shell modifications (.zshrc)
 1.) Install ohmyzsh!: ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"``` (and follow additional instructions prompted after running this script (if any))\
