@@ -1,4 +1,4 @@
-# Setup
+# Welcome to my macOS rice!
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/4572405b-649f-4d69-899f-06ce48a3598c)
 
