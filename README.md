@@ -1,6 +1,6 @@
 # Welcome to my macOS rice!
 ## Screenshots
-![image](https://github.com/user-attachments/assets/45e293dd-4f90-4b61-aa1b-357bb9193f1d)
+![image](https://github.com/user-attachments/assets/e733f9b3-644c-454d-9dc2-9b85a4da307f)
 
 ## Prerequisites
 1.) macOS Ventura or later (except Yabai, which would be ≤ macOS Sonoma)\
