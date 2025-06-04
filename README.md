@@ -74,9 +74,9 @@ To complete the theme, you can also change the accent color to lavender to match
 [Transmission](https://transmissionbt.com/) for torrenting
 
 ### Steps for the "but there's a workaround by trying out the link"
-Install a browser-based adblock (ex. uBlock Origin web browser extension) and the app [Transmission](https://transmissionbt.com/), a torrenting client.\
-Then, follow and do the steps in [this tutorial](https://www.reddit.com/r/MacOSBeta/comments/1e2xlcg/comment/ld6bwow/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1).\ 
-Lastly, "try out the link" and read the included downloaded "readme.txt" (if applicable), then install it according to the readme or use common sense if a readme doesn't exist.
+1. Install a browser-based adblock (ex. uBlock Origin web browser extension) and the desktop app [Transmission](https://transmissionbt.com/), a torrenting client.
+2. Then, follow and do the steps in [this tutorial](https://www.reddit.com/r/MacOSBeta/comments/1e2xlcg/comment/ld6bwow/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1).
+3. Lastly, "try out the link" and read the included downloaded "readme.txt" (if applicable), then install it according to the readme or use common sense if a readme doesn't exist.
 
 ## Notes
 Make sure to run the terminal command ```sudo yabai --load-sa``` after every reboot to ensure that the window-moving feature between workspaces functions correctly for the Yabai Tiling Window Manager.
