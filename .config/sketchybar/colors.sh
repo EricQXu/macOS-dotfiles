@@ -14,12 +14,13 @@ export TEAL=0xFF94e2d5 #94e2d5
 export SKY=0xFF89dceb #89dceb
 export SAPPHIRE=0xFF74c7ec #74c7ec
 export BLUE=0xFF89b4fa #89b4fa
-export LAVENDER=0xFFb4befe #b4befe
+export LAVENDER=0xFFb4befe # default: FFb4befe
 
 export WHITE=0xFFcdd6f4 #cdd6f4 
 export DARK_WHITE=0xFF9399b2  #9399b2
 
-export BG_PRI_COLR=0xEE1e1e2e #1e1e2e
-export BG_SEC_COLR=0xFF313244 #313244
+
+export BG_PRI_COLR=0x8A2d2d3b # default: EE1e1e2e
+export BG_SEC_COLR=0x8F2b2b3b # default: FF313244
 
 

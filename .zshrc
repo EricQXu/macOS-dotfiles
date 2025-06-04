@@ -85,6 +85,7 @@ source $ZSH/oh-my-zsh.sh
 
 # Display neofetch
 sleep 0.1 && neofetch
+# curl wttr.in/36.97,-122.02\?M\&format=3
 
 # Display Pokemon-colorscripts
 # Project page: https://gitlab.com/phoneybadger/pokemon-colorscripts#on-other-distros-and-macos
@@ -128,6 +129,8 @@ alias ls="eza --icons=always --color=always --git"
 alias cat="bat --paging=never --style=plain,header,grid"
 alias 13s="cd ~/Documents/f24/13s"
 alias mps="multipass shell"
+alias weather="curl wttr.in/36.97,-122.02\?2M"
+alias weather/ucsc="curl wttr.in/ucsc\?2M"
 
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source <(fzf --zsh)
